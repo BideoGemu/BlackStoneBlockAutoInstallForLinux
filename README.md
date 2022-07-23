@@ -1,6 +1,6 @@
 # BlackStone Block modpack auto install script Linux Side
 
-### NOTE: this is for modpack version 1.0.0
+### NOTE: this is for modpack version 1.0.1
 
 To download the modpack go to https://www.curseforge.com/minecraft/modpacks/blackstone-block
 
