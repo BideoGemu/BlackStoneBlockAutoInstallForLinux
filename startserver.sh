@@ -24,7 +24,7 @@ fi
 if command -v java >> /dev/null; then
     echo -e "${CONTINUE}java is installed${ENDCOLOR}"
 else
-    echo -e "${ERROR}You NEED java version 8 on your system !!! ${ENDCOLOR}"
+    echo -e "${ERROR}You NEED java on your system !!! ${ENDCOLOR}"
     exit 0
 fi
 
