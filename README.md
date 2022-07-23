@@ -1,6 +1,6 @@
 # BlackStone Block modpack auto install script Linux Side
 
-### NOTE: this is for modpack version 1.0.1
+### NOTE: this is for modpack version 1.0.2
 
 To download the modpack go to https://www.curseforge.com/minecraft/modpacks/blackstone-block
 
@@ -13,7 +13,7 @@ To download the modpack go to https://www.curseforge.com/minecraft/modpacks/blac
 - Download client side mod files on curseforge (this mods have config problems, so if you can't take it on server server dont't start):
   * Ding-1.16.5-1.3.0.jar =>https://www.curseforge.com/minecraft/mc-mods/ding/download/3222705
   * moreoverlays-1.18.18-mc1.16.5.jar => https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated/download/3639017
-  
+
 ### NOTE: You can also take these files in the mods folder of your local installation
 
 - Copy all mods files on mods directory
