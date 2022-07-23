@@ -1,2 +1,2 @@
 # BlackStoneBlockAutoInstall
-Server files for Windows and Linux server with mods auto download 
+Server files for Linux server with mods auto download 
